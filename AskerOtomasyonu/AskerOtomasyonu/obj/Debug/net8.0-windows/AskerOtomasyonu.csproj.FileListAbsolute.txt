@@ -1,0 +1,16 @@
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\bin\Debug\net8.0-windows\AskerOtomasyonu.exe
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\bin\Debug\net8.0-windows\AskerOtomasyonu.deps.json
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\bin\Debug\net8.0-windows\AskerOtomasyonu.runtimeconfig.json
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\bin\Debug\net8.0-windows\AskerOtomasyonu.dll
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\bin\Debug\net8.0-windows\AskerOtomasyonu.pdb
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\AskerOtomasyonu.Form1.resources
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\AskerOtomasyonu.csproj.GenerateResource.cache
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\AskerOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\AskerOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\AskerOtomasyonu.AssemblyInfo.cs
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\AskerOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\AskerOtomasyonu.dll
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\refint\AskerOtomasyonu.dll
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\AskerOtomasyonu.pdb
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\AskerOtomasyonu.genruntimeconfig.cache
+C:\Users\erkan\source\repos\AskerOtomasyonu\AskerOtomasyonu\obj\Debug\net8.0-windows\ref\AskerOtomasyonu.dll
